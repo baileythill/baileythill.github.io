@@ -5,7 +5,7 @@
 ### Machine Learning 
 
 [Computer Vision](https://colab.research.google.com/drive/1KPe_qfrUfJOI-0rueGpRvwpUpdyqpoqT#scrollTo=5sHPuLpl3-uM)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/catsvsdogs.jpg?raw=true"/>
 
 
 ---
