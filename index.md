@@ -9,7 +9,7 @@
 
 
 ---
-[Breast Cancer Classification with Nested CV](https://baileythill.github.io/Notebooks/Breast Cancer Classification Using Nested CV.html)
+[Breast Cancer Classification with Nested CV](https://baileythill.github.io/Notebooks/Breast-Cancer-Classification.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
