@@ -9,26 +9,18 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Breast Cancer Classification with Nested CV](file:///C:/Users/baile/Downloads/Breast%20Cancer%20Classification%20Using%20Nested%20CV.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Exploratory Data Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Health Data Competition 2022](https://github.com/baileythill/Health-Data-Competition)
 
 ---
-
-### Hobby Projects
 
 
 ---
