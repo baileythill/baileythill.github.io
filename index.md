@@ -10,7 +10,7 @@
 
 ---
 [Breast Cancer Classification with Nested CV](https://baileythill.github.io/Notebooks/Breast-Cancer-Classification.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/BC.png?raw=true"/>
 
 ---
 
@@ -18,8 +18,8 @@
 
 ### Exploratory Data Analysis
 
-- [Health Data Competition 2022](https://github.com/baileythill/Health-Data-Competition)
-
+[Health Data Competition 2022](https://github.com/baileythill/Health-Data-Competition)
+<img src="images/CMS.png?raw=true"/>
 ---
 
 
