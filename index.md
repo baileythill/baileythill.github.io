@@ -4,8 +4,9 @@
 
 ### Machine Learning 
 
-[Project 1 Title](/sample_page)
+[Computer Vision](https://colab.research.google.com/drive/1KPe_qfrUfJOI-0rueGpRvwpUpdyqpoqT#scrollTo=5sHPuLpl3-uM)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
