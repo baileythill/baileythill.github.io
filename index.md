@@ -14,7 +14,7 @@ Explorations in image classification, working on classifying pictures of Dogs an
 ---
 [Breast Cancer Classification with Nested CV](https://baileythill.github.io/Notebooks/Breast-Cancer-Classification.html)
 <br><br>
-Nested Cross-validation for KNN and SVM used for classification on the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository
+Nested Cross-validation for KNN and SVM used for classification on the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository.
 <br><br>
 <img src="images/BC.png?raw=true"/>
 
