@@ -8,7 +8,7 @@
 <br><br>
 Explorations in image classification, working on classifying pictures of Dogs and Cats from the Kaggle Dogs vs. Cats competition, includes my top scoring models. Employed Resnet50, VGG16, and Xception transfer learning CNNs.
 <br><br>
-<img src="images/catsvsdogs.jpg?raw=true"/>
+<img src="images/dogvcat.png?raw=true"/>
 
 
 ---
@@ -16,7 +16,7 @@ Explorations in image classification, working on classifying pictures of Dogs an
 <br><br>
 Nested Cross-validation for KNN and SVM used for classification on the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository.
 <br><br>
-<img src="images/BC.png?raw=true"/>
+<img src="images/breastcancer.jpg?raw=true"/>
 
 ---
 
