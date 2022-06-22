@@ -6,7 +6,7 @@
 
 [Computer Vision](https://colab.research.google.com/drive/1KPe_qfrUfJOI-0rueGpRvwpUpdyqpoqT#scrollTo=5sHPuLpl3-uM)
 <br><br>
-Explorations in image classification, working on classifying pictures of Dogs and Cats from the Kaggle Dogs vs. Cats competition, includes my top scoring models. Employed Resnet50, VGG16, and Xception transfer learning CNNs.
+The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat. This problem can be effectively approached thanks to innovations in deep learning through convolutional neural networks. I developed multiple models for photo classification using transfer learning and ended up employing Resnet50, VGG16, and Xception architectures.
 <br><br>
 <img src="images/dogvcat.png?raw=true"/>
 
@@ -14,7 +14,7 @@ Explorations in image classification, working on classifying pictures of Dogs an
 ---
 [Breast Cancer Classification with Nested CV](https://baileythill.github.io/Notebooks/Breast-Cancer-Classification.html)
 <br><br>
-Nested Cross-validation for KNN and SVM used for classification on the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository.
+According to the CDC, aach year in the United States, about 264,000 cases of breast cancer are diagnosed in women and about 2,400 in men. I have seen this type of cancer impact my own family and thus found the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository to be an interesting opportunity to employ Machine Learning techniques. I used neested Cross-validation for KNN and SVM to tackle this classification problem and developed a model with 98% accuracy.
 <br><br>
 <img src="images/breastcancer.jpg?raw=true"/>
 
