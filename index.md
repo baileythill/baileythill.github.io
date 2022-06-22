@@ -14,7 +14,7 @@ The Dogs vs. Cats dataset is a standard computer vision dataset that involves cl
 ---
 [Breast Cancer Classification with Nested CV](https://baileythill.github.io/Notebooks/Breast-Cancer-Classification.html)
 <br><br>
-According to the CDC, aach year in the United States, about 264,000 cases of breast cancer are diagnosed in women and about 2,400 in men. I have seen this type of cancer impact my own family and thus found the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository to be an interesting opportunity to employ Machine Learning techniques. I used neested Cross-validation for KNN and SVM to tackle this classification problem and developed a model with 98% accuracy.
+According to the CDC, about 264,000 cases of breast cancer are diagnosed in women and about 2,400 in men in the US each year. I have seen this type of cancer's impact in my own family and thus found the Wisconsin-Breast Cancer (Diagnostics) dataset (WBC) from UCI machine learning repository to be an interesting opportunity to employ Machine Learning techniques. I used neested Cross-validation for KNN and SVM to tackle this classification problem and developed a model with 98% accuracy.
 <br><br>
 <img src="images/breastcancer.jpg?raw=true"/>
 
